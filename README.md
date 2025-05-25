@@ -12,9 +12,6 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 - [Auto FTP Report Fetcher](https://github.com/coreyrm7/auto-ftp-report-fetcher)  
   Downloads and verifies time-sensitive reports from an SFTP server, auto-converts to Excel.
 
-- [CCR Insight Reporter](https://github.com/coreyrm7/ccr-insight-reporter) *(in progress)*  
-  Calculates weighted performance metrics across ACT, ASVAB, AP, IRC, and PLTW exams.
-
 ---
 
 ## 🔜 In Progress (Coming Soon)
@@ -22,6 +19,14 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 - `attendance-intelligence-system/`  
 - `discipline-insights-builder/`  
 - `rsp-exemption-engine/`
+
+---
+## 🗃️ Archived / Reference Projects
+
+- [CCR Insight Reporter](https://github.com/coreyrm7/CSV-Comparator) *(deprioritized - will be a dashboard when resumed)*  
+  Calculates weighted performance metrics across ACT, ASVAB, AP, IRC, and PLTW exams.
+
+---
 
 Each of these will include detailed logic walkthroughs, policy translation, and system-level design documentation.
 
