@@ -22,15 +22,21 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 - `discipline-insights-builder/`  
   Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
-
+  
 - `rsp-exemption-engine/`  
   Flags students exempt from Reading Success Plan requirements using policy-based logic and SIS program participation fields.
-
+  
 - `hr-data-sync-bridge/`  
   API automation concept to keep employee records aligned across siloed platforms (e.g., payroll, HR, and onboarding systems).
-
+  
 - `federal-funding-strategy-planner/`  
   Early-stage logic modeling for a potential cross-department workflow to qualify and document eligibility for federal program funding opportunities.
+  
+- `analytics-platform-rollout/`  
+  Leading implementation of a district-wide data visualization and insights platform, including dashboard access strategy, custom data mapping, and cross-department adoption support.
+  
+- `messaging-platform-integration/`  
+  Acting as technical lead on rollout of a unified school-to-home communication system, coordinating data syncs, stakeholder training, and long-term automation strategy.
 
 ---
 ## 🗃️ Archived / Reference Projects
