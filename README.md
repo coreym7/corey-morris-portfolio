@@ -46,20 +46,6 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 ---
 
-Each of these will include detailed logic walkthroughs, policy translation, and system-level design documentation.
-
----
-
-## 🧠 System Themes
-
-- Python-first ETL pipelines
-- Multi-department data unification
-- Cross-system SFTP + CSV workflows
-- Education compliance automation (MSIP 6, RSP, ADA)
-- Zero-scaffolding architecture built from scratch
-
----
-
 ## 🛡️ Disclaimer
 
 All content is anonymized and safe for public sharing. No real data or credentials are included.
