@@ -12,11 +12,12 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 - [Auto FTP Report Fetcher](https://github.com/coreym7/Auto-FTP-Report)  
   Downloads and verifies time-sensitive reports from an SFTP server, auto-converts to Excel.
 
+- [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
+  Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
 ---
 
 ## 🔜 In Progress (Coming Soon)
 
-- `attendance-intelligence-system/`  
 - `discipline-insights-builder/`  
 - `rsp-exemption-engine/`
 
