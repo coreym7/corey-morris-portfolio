@@ -14,6 +14,9 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 - [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
   Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
+
+- [Reading Success Plan Req Determination Tool](https://github.com/coreym7/rsp-determination-tool)
+  Automates RSP eligibility using grade/time-specific cut scores and multi-metric risk logic based on DESE policy.
 ---
 
 ## 🔜 In Progress (Coming Soon)
