@@ -6,10 +6,10 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 ## ✅ Active Repositories
 
-- [CSV Employee Diff Tracker](https://github.com/coreyrm7/csv-employee-diff-tracker)  
+- [CSV Employee Diff Tracker](https://github.com/coreym7/CSV-Comparator)  
   Automates hire/term/change detection across monthly HR reports using SFTP + pandas.
 
-- [Auto FTP Report Fetcher](https://github.com/coreyrm7/auto-ftp-report-fetcher)  
+- [Auto FTP Report Fetcher](https://github.com/coreym7/Auto-FTP-Report)  
   Downloads and verifies time-sensitive reports from an SFTP server, auto-converts to Excel.
 
 ---
