@@ -4,8 +4,7 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 ---
 
-## ✅ Active Repositories
-
+## ✅ Recent Projects
 - [CSV Employee Diff Tracker](https://github.com/coreym7/CSV-Comparator)  
   Automates hire/term/change detection across monthly HR reports using SFTP + pandas.
 
@@ -19,10 +18,19 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
   Automates RSP eligibility using grade/time-specific cut scores and multi-metric risk logic based on DESE policy.
 ---
 
-## 🔜 In Progress (Coming Soon)
+## 🔜  In Progress & Planned
 
 - `discipline-insights-builder/`  
-- `rsp-exemption-engine/`
+  Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
+
+- `rsp-exemption-engine/`  
+  Flags students exempt from Reading Success Plan requirements using policy-based logic and SIS program participation fields.
+
+- `hr-data-sync-bridge/`  
+  API automation concept to keep employee records aligned across siloed platforms (e.g., payroll, HR, and onboarding systems).
+
+- `federal-funding-strategy-planner/`  
+  Early-stage logic modeling for a potential cross-department workflow to qualify and document eligibility for federal program funding opportunities.
 
 ---
 ## 🗃️ Archived / Reference Projects
