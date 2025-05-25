@@ -23,7 +23,7 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 ---
 ## 🗃️ Archived / Reference Projects
 
-- [CCR Insight Reporter](https://github.com/coreyrm7/CSV-Comparator) *(deprioritized - will be a dashboard when resumed)*  
+- [CCR Insight Reporter](https://github.com/coreym7/CSV-Comparator) *(deprioritized - will be a dashboard when resumed)*  
   Calculates weighted performance metrics across ACT, ASVAB, AP, IRC, and PLTW exams.
 
 ---
