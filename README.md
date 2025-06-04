@@ -16,13 +16,13 @@ Welcome! This portfolio showcases real-world data engineering, automation, and r
 
 - [Reading Success Plan Req Determination Tool](https://github.com/coreym7/rsp-determination-tool)
   Automates RSP eligibility using grade/time-specific cut scores and multi-metric risk logic based on DESE policy.
+
+- [Incident Insights Dashboard tool](https://github.com/coreym7/incident-insights-orchestrator)
+  Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
 ---
 
 ## 🔜  In Progress & Planned
 
-- `discipline-insights-builder/`  
-  Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
-  
 - `rsp-exemption-engine/`  
   Flags students exempt from Reading Success Plan requirements using policy-based logic and SIS program participation fields.
   
