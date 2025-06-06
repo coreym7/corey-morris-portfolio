@@ -1,6 +1,10 @@
-# Corey Morris – Systems Architecture & Automation Portfolio
+# Corey Morris – Principal Systems Architect & Data/Automation Engineer
 
-Welcome! This portfolio showcases real-world data engineering, automation, and reporting tools I’ve built in production environments. Each project is modular, documented, and structured around real district needs — from compliance tracking to vendor integrations.
+I design and build full-stack operational systems—spanning architecture, process design, data engineering, and backend automation. I perform each role within a single build, shifting scope as needed to connect strategy, logic, and execution.
+
+Each phase informs the next. I plan with the implementation in mind, and I code with awareness of the upstream logic that shaped the system. The work is layered, but I approach it methodically—breaking down complexity the same way I structure code: into modular, solvable components.
+
+This portfolio reflects that end-to-end ownership. Every system here was created in a real production environment—from policy interpretation to automated delivery—built solo to solve district-wide needs.
 
 ---
 
