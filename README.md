@@ -9,12 +9,6 @@ This portfolio reflects that end-to-end ownership. Every system here was created
 ---
 
 ## ✅ Recent Projects
-- [CSV Employee Diff Tracker](https://github.com/coreym7/CSV-Comparator)  
-  Automates hire/term/change detection across monthly HR reports using SFTP + pandas.
-
-- [Auto FTP Report Fetcher](https://github.com/coreym7/Auto-FTP-Report)  
-  Downloads and verifies time-sensitive reports from an SFTP server, auto-converts to Excel.
-
 - [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
   Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
 
@@ -23,6 +17,13 @@ This portfolio reflects that end-to-end ownership. Every system here was created
 
 - [Incident Insights Dashboard tool](https://github.com/coreym7/incident-insights-orchestrator)
   Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
+
+- [CSV Employee Diff Tracker](https://github.com/coreym7/CSV-Comparator)  
+  Automates hire/term/change detection across monthly HR reports using SFTP + pandas.
+
+- [Auto FTP Report Fetcher](https://github.com/coreym7/Auto-FTP-Report)  
+  Downloads and verifies time-sensitive reports from an SFTP server, auto-converts to Excel.
+
 ---
 
 ## 🔜  In Progress & Planned
