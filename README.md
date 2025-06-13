@@ -9,6 +9,10 @@ This portfolio reflects that end-to-end ownership. Every system here was created
 ---
 
 ## ✅ Recent Projects
+- [Clash of Clans War Tracker](https://github.com/coreym7/clash-api-war-tracker)  
+  Actively developing an open-source analytics platform that consumes Clash of Clans’ public API to track war participation, player performance, and trend metrics. Built with modular Python, SQLAlchemy schema design, and JSON data parsing, with planned Flask-based dashboards and remote deployment.
+
+
 - [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
   Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
 
