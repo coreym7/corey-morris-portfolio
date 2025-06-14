@@ -4,7 +4,7 @@ I design and build full-stack operational systems—spanning architecture, proce
 
 Each phase informs the next. I plan with the implementation in mind, and I code with awareness of the upstream logic that shaped the system. The work is layered, but I approach it methodically—breaking down complexity the same way I structure code: into modular, solvable components.
 
-This portfolio reflects that end-to-end ownership. Every system here was created in a real production environment—from policy interpretation to automated delivery—built solo to solve district-wide needs.
+This portfolio reflects that end-to-end ownership. Every system here was created in a real-world production environment, whether solving operational needs across departments or building clean, scalable tools from scratch in independent projects.
 
 ---
 
