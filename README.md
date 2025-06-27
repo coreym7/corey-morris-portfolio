@@ -1,17 +1,17 @@
-# Corey Morris – Principal Systems Architect & Data/Automation Engineer
+# Corey Morris – Data Engineer & Systems Architect
 
-I design and build full-stack operational systems—spanning architecture, process design, data engineering, and backend automation. I perform each role within a single build, shifting scope as needed to connect strategy, logic, and execution.
+I design and build full-stack data systems—spanning architecture, process design, ETL development, and backend automation. I own every phase of the pipeline, from strategy and ingestion to modeling, reporting, and long-term maintainability.
 
-Each phase informs the next. I plan with the implementation in mind, and I code with awareness of the upstream logic that shaped the system. The work is layered, but I approach it methodically—breaking down complexity the same way I structure code: into modular, solvable components.
+My work combines technical depth with systems thinking. I build with the end goal in mind, structuring complex workflows into modular, testable components—whether it's parsing API data, orchestrating transformations, or automating multi-department reporting.
 
-This portfolio reflects that end-to-end ownership. Every system here was created in a real-world production environment, whether solving operational needs across departments or building clean, scalable tools from scratch in independent projects.
+This portfolio reflects production-grade systems I've built both independently and in high-stakes operational environments. Every project here showcases my ability to connect logic, data, and execution into tools that scale and last.
+
 
 ---
 
 ## ✅ Recent Projects
-- [Clash of Clans War Tracker](https://github.com/coreym7/clash-api-war-tracker)  
-  Actively developing an open-source analytics platform that consumes Clash of Clans’ public API to track war participation, player performance, and trend metrics. Built with modular Python, SQLAlchemy schema design, and JSON data parsing, with planned Flask-based dashboards and remote deployment.
-
+- [Clash Analytics Platform](https://github.com/coreym7/clash-api-war-tracker)  
+  A Python-based ETL and analytics pipeline that consumes Clash of Clans’ public API to track war participation, player performance, and historical trends. Built with modular SQLAlchemy schema design, JSON parsing, and future dbt/Airflow integration for orchestration and modeling. Designed for multi-clan scalability and remote dashboard deployment.
 
 - [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
   Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
