@@ -12,15 +12,15 @@ This portfolio reflects production-grade systems I've built both independently a
 ## ✅ Recent Projects
 - [Clash Analytics Platform](https://github.com/coreym7/clash-api-war-tracker)  
   A Python-based ETL and analytics pipeline that consumes Clash of Clans’ public API to track war participation, player performance, and historical trends. Built with modular SQLAlchemy schema design, JSON parsing, and future dbt/Airflow integration for orchestration and modeling. Designed for multi-clan scalability and remote dashboard deployment.
-
-- [Attendance Intelligence System](https://github.com/coreym7/attendance-intelligence-system)
+  
+- [Attendance Intelligence – Missouri Compliance Dashboard](https://github.com/coreym7/attendance-intelligence-system)
   Produces district-wide ADA trend insights with MSIP 6 alignment, multilingual outreach support, and automated SharePoint routing.
 
-- [Reading Success Plan Req Determination Tool](https://github.com/coreym7/rsp-determination-tool)
-  Automates RSP eligibility using grade/time-specific cut scores and multi-metric risk logic based on DESE policy.
+- [Reading Success Plan Automation – Risk Classification Engine](https://github.com/coreym7/rsp-determination-tool)
+  Applies policy-based RSP eligibility logic across diagnostic data and enrollment context, producing state-aligned intervention lists.
 
-- [Incident Insights Dashboard tool](https://github.com/coreym7/incident-insights-orchestrator)
-  Automates incident report analysis by hour, grade, location, and staff role, generating multi-tab outputs and per-building breakdowns.
+- [Behavior Summary Dashboard – K–12 Multi-Metric Trends](https://github.com/coreym7/incident-insights-orchestrator)
+  Summarizes behavior data by grade, hour, location, and staff role; used for trend identification and building-level support decisions.
 
 - [CSV Employee Diff Tracker](https://github.com/coreym7/CSV-Comparator)  
   Automates hire/term/change detection across monthly HR reports using SFTP + pandas.
